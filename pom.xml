@@ -20,7 +20,7 @@
         </developer>
     </developers>
 	
-	
+	<!-- test -->
     <profiles>
         <profile>
             <id>all-tests</id>
